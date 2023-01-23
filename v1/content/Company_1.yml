@@ -1,0 +1,32 @@
+agreement: BITS Dubai Motorsports Project
+ending: end of the competition
+years: 2022-2023
+date_of_issue: Jan 2nd 2023
+
+party_1: Birla Institute of Technology and Science, Pilani - Dubai Campus
+alias_1: BPDC
+location_1: Dubai, UAE
+
+representative_1: Dr. Snehaunshu Chowdury
+role_1: Faculty In-Charge, Society of Automotive Engineers
+contact_1: snehaunshu@dubai.bits-pilani.ac.in
+
+party_2: Some Big Company 1
+alias_2: Company 1
+location_2: Dubai, UAE
+
+representative_2: Person
+role_2: Manager
+contact_2: something@gmail.com
+
+party_1_offers_party_2: |
+    - Social Media Marketing
+    - Logo Space on Car (size L)
+    - Logo Space on Apparel
+    - Logo and link on Website (small column)
+
+party_2_offers_party_1: |
+    Technical Support and Guidance till the end of the project in the areas of
+    - Welding
+    - Engine
+    - Suspension
