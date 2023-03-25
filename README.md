@@ -5,7 +5,8 @@ A Python script to automate generation of contracts for BITS Motorsports (the Fo
 ## Usage
 
 - Create a spreadsheet with your data (I'm using Google Sheets for easy access)
-- Link your spreadsheet with the script
+- Open `Contract_Generator.ipynb`
+- Use `pandas` your spreadsheet with the script
 - Run the script & that's it ✨
 
 ## Further Help
